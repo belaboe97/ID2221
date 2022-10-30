@@ -8,10 +8,10 @@
 
 | Plugin | README |
 | ------ | ------ |
-| Java | [plugins/dropbox/README.md][PlDb] |
-| Anaconda | [plugins/github/README.md][PlGh] |
-| Kafka | [plugins/googledrive/README.md][PlGd] |
-| Cassandra | [plugins/onedrive/README.md][PlOd] |
+| Java | [https://www.oracle.com/uk/java/technologies/javase/javase8-archive-downloads.html][PlDb] |
+| Anaconda | [https://www.anaconda.com/products/distribution][PlGh] |
+| Kafka | [[plugins/googledrive/README.md](https://downloads.apache.org/kafka/3.2.1/kafka_2.12-3.2.1.tgz)][PlGd] |
+| Cassandra | [https://dlcdn.apache.org/cassandra/3.11.13/apache-cassandra-3.11.13-bin.tar.gz][PlOd] |
 
 Anaconda provides: Python, Jupyter-Notebook etc. 
 
