@@ -1,4 +1,4 @@
-.# Delivery for ID2221 - Data-intensive computing
+# Delivery for ID2221 - Data-intensive computing
 ## Twitter Streaming API with Kafka, Spark Streaming, Cassandra
 
 [![N|Solid](https://www.liveinlab.kth.se/polopoly_fs/1.1065101.1618224951!/image/kth%20logo%20vit%20platta.jpg)](https://nodesource.com/products/nsolid)
@@ -10,7 +10,7 @@
 | ------ | ------ |
 | Java | [https://www.oracle.com/uk/java/technologies/javase/javase8-archive-downloads.html][PlDb] |
 | Anaconda | [https://www.anaconda.com/products/distribution][PlGh] |
-| Kafka | [[plugins/googledrive/README.md](https://downloads.apache.org/kafka/3.2.1/kafka_2.12-3.2.1.tgz)][PlGd] |
+| Kafka | [(https://downloads.apache.org/kafka/3.2.1/kafka_2.12-3.2.1.tgz)][PlGd] |
 | Cassandra | [https://dlcdn.apache.org/cassandra/3.11.13/apache-cassandra-3.11.13-bin.tar.gz][PlOd] |
 
 Anaconda provides: Python, Jupyter-Notebook etc. 
