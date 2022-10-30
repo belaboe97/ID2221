@@ -19,7 +19,6 @@ Anaconda provides: Python, Jupyter-Notebook etc.
 
 ### Start Kafka (in kafka folder)
 
-
 <ol>
   <li>bin/zookeeper-server-start.sh config/zookeeper.properties</li>
   <li>bin/kafka-server-start.sh config/server.properties</li>
@@ -30,7 +29,8 @@ Anaconda provides: Python, Jupyter-Notebook etc.
 #### Run TwttrStreamingAPI.ipynb  
 Required libraries: time, tweepy, kafka
 
-### Start Cassandra (in cassandra folder) with bin/cassandra -f
+### Start Cassandra (in cassandra folder) 
+bin/cassandra -f
 
 ### Run Section 1: Cassandra Setup in CassandraSetupAndDataVisualization.ipynb
 Required libraries: cassandra-driver, matplotlib, pandas
@@ -39,6 +39,7 @@ Required libraries: cassandra-driver, matplotlib, pandas
 Required libaries: pyspark, textblob
 
 ### Run Section2: Data Visualization in CassandraSetupAndDataVisualization.ipynb
+Libraries allready satisfied for section1 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
