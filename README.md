@@ -24,6 +24,7 @@ Anaconda provides: Python, Jupyter-Notebook etc.
   <li>bin/zookeeper-server-start.sh config/zookeeper.properties</li>
   <li>bin/kafka-server-start.sh config/server.properties</li>
   <li> bin/kafka-topics.sh --create --topic saCity --bootstrap-server localhost:9092</li>
+  <li>!!useful command to gain conherent data after reexecution:  bin/kafka-topics.sh --zookeeper localhost:2181 --delete --topic saCity <li>
 </ol> 
 
 #### Run TwttrStreamingAPI.ipynb  
